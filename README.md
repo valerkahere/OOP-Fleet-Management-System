@@ -24,7 +24,7 @@ This project was built to showcase a strong understanding of the four pillars of
 Here is a glimpse of the main program structure, showing the instantiation of `Vehicle` and `HybridVehicle` objects.
 
 <p align="center">
-  <img src="URL_TO_YOUR_SCREENSHOT.png" alt="Screenshot of the C# code for the Fleet Management System" width="750">
+  <img src="https://www.valerkahere.com/assets/seesharp.png" alt="Screenshot of the C# code for the Fleet Management System" width="750">
 </p>
 
 ## How to Run
